@@ -115,4 +115,4 @@ venv.bak/
 # auto-maked files
 !content/index.md
 content/
-
+output/
