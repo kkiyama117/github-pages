@@ -38,7 +38,7 @@ DEFAULT_PAGINATION = 10
 
 # plugins
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['related_posts', 'tag_cloud','neighbors']
+PLUGINS = ['related_posts' ,'neighbors']
 
 # themes
 THEME = 'themes/pelican-striped-html5up'
