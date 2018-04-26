@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>じゃなきゃお前がやるんだよ</title><link href="http://github.hinatan.jp/" rel="alternate"></link><link href="http://github.hinatan.jp/feeds/all.atom.xml" rel="self"></link><id>http://github.hinatan.jp/</id><updated>2018-04-26T09:00:00+09:00</updated><entry><title>Hello, world!</title><link href="http://github.hinatan.jp/hello-world.html" rel="alternate"></link><published>2018-04-26T09:00:00+09:00</published><updated>2018-04-26T09:00:00+09:00</updated><author><name>kkiyama117</name></author><id>tag:github.hinatan.jp,2018-04-26:/hello-world.html</id><summary type="html">&lt;h1&gt;kkiyama117&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>灰燼</title><link href="http://github.hinatan.jp/" rel="alternate"></link><link href="http://github.hinatan.jp/feeds/all.atom.xml" rel="self"></link><id>http://github.hinatan.jp/</id><updated>2018-04-26T13:10:00+09:00</updated><entry><title>Hello, world!</title><link href="http://github.hinatan.jp/my-super-post.html" rel="alternate"></link><published>2018-04-26T09:00:00+09:00</published><updated>2018-04-26T13:10:00+09:00</updated><author><name>kkiyama117</name></author><id>tag:github.hinatan.jp,2018-04-26:/my-super-post.html</id><summary type="html">&lt;p&gt;Short version for index and feeds&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is the content of my blog post.&lt;/p&gt;
+&lt;h1&gt;kkiyama117&lt;/h1&gt;
 &lt;h2&gt;成果物&lt;/h2&gt;
 &lt;h3&gt;sites&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://hinatan.jp"&gt;ひなたん&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://github.hinatan.jp"&gt;Github Pages&lt;/a&gt; (ここ)&lt;/li&gt;
-&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;kkiyama117&lt;/h1&gt;
-&lt;h2&gt;成果物&lt;/h2&gt;
-&lt;h3&gt;sites&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://hinatan.jp"&gt;ひなたん&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://github.hinatan.jp"&gt;Github Pages&lt;/a&gt; (ここ)&lt;/li&gt;
-&lt;/ul&gt;</content></entry></feed>
+&lt;/ul&gt;</content><category term="test"></category><category term="pelican"></category><category term="publishing"></category></entry></feed>
