@@ -3,15 +3,15 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'kkiyama117'
-SITENAME = 'じゃなきゃお前がやるんだよ'
-SITESUBTITLE = 'じゃなきゃお前がやるんだよ'
-SITEURL = 'localhost'
+SITENAME = '灰燼'
+SITESUBTITLE = 'お前がやらなきゃ誰がやる'
+SITEURL = ''
 
 PATH = 'content'
 
 TIMEZONE = 'Asia/Tokyo'
 
-DEFAULT_LANG = 'ja'
+DEFAULT_LANG = 'en'
 DEFAULT_DATE_FORMAT = '%B %d, %Y'
 
 # Feed generation is usually not desired when developing
