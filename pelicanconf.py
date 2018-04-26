@@ -11,7 +11,7 @@ PATH = 'content'
 
 TIMEZONE = 'Asia/Tokyo'
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = 'ja'
 DEFAULT_DATE_FORMAT = '%B %d, %Y'
 
 # Feed generation is usually not desired when developing
@@ -35,6 +35,20 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
+# article like blog
+ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
+ARTICLE_PATHS = ['blog']
+
+DEFAULT_METADATA = {
+    'status': 'draft',
+}
+
+# pages like about
+PAGE_URL = 'pages/{slug}/'
+PAGE_SAVE_AS = 'pages/{slug}/index.html'
+PAGE_PATHS=["pages"]
 
 # plugins
 PLUGIN_PATHS = ['plugins']
