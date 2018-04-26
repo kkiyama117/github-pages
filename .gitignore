@@ -111,3 +111,8 @@ venv.bak/
 
 # IDEA
 .idea
+
+# auto-maked files
+!content/index.md
+content/
+
