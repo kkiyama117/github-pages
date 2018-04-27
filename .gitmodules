@@ -4,3 +4,6 @@
 [submodule "themes2"]
 	path = themes2
 	url = git@github.com:kkiyama117/pelican-octopress-theme.git
+[submodule "themes"]
+	path = themes
+	url = git@github.com:kkiyama117/pelican-octopress-theme.git
