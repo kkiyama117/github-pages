@@ -19,6 +19,13 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
+# Blogroll
+LINKS = (('About', SITEURL + "/pages/about/"),
+         ('Author', SITEURL + "/pages/author/"),
+         ('作りかけのゴミ', 'http://hinatan.jp/'),
+         ('ブログ他の何か', 'http://backend.hinatan.jp/'),
+         ('こ↑こ↓', 'http://github.hinatan.jp/'),)
+         
 # Following items are often useful when publishing
 
 # DISQUS_SITENAME = ""
