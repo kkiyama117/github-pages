@@ -38,7 +38,9 @@ FEED_ALL_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
 # Blogroll
-LINKS = (('作りかけのゴミ', 'http://hinatan.jp/'),
+LINKS = (('About', SITEURL + "/pages/about/"),
+         ('Author', SITEURL + "/pages/author/"),
+         ('作りかけのゴミ', 'http://hinatan.jp/'),
          ('ブログ他の何か', 'http://backend.hinatan.jp/'),
          ('こ↑こ↓', 'http://github.hinatan.jp/'),)
 
