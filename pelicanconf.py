@@ -21,13 +21,15 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-GITHUB_URL="https://github.com/kkiyama117"
+GITHUB_USER = "kkiyama117"
+GITHUB_SHOW_USER_LINK = True
 
-TWITTER_USER="Muskuarede "
-TWITTER_TWEET_BUTTON=True
-TWITTER_FOLLOW_BUTTON=True
+TWITTER_USER = "Muskuarede "
+TWITTER_TWEET_BUTTON = True
+TWITTER_FOLLOW_BUTTON = True
 
-SEARCH_BOX=True
+FACEBOOK_LIKE = True
+SEARCH_BOX = True
 
 REVERSE_CATEGORY_ORDER = True
 LOCALE = "ja_JP.UTF-8"
@@ -40,8 +42,8 @@ CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 # Blogroll
 LINKS = (('About', SITEURL + "/pages/about/"),
          ('Author', SITEURL + "/pages/author/"),
-         ('作りかけのゴミ', 'http://hinatan.jp/'),
-         ('ブログ他の何か', 'http://backend.hinatan.jp/'),
+         ('作りかけのゴミ(外部)', 'http://hinatan.jp/'),
+         ('総合DBサーバー', 'http://backend.hinatan.jp/'),
          ('こ↑こ↓', 'http://github.hinatan.jp/'),)
 
 # Social widget
@@ -70,11 +72,12 @@ PAGE_PATHS = ["pages"]
 
 # plugins
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['related_posts', 'neighbors', 'tag_cloud',"sitemap"]
-SITEMAP={
-'format':'xml'
+PLUGINS = ['related_posts', 'neighbors', 'tag_cloud', "sitemap"]
+SITEMAP = {
+    'format': 'xml'
 }
 
 # themes
 THEME = 'themes'
+THEME_STATIC_DIR = 'themes/static'
 STATIC_PATHS = ['images']
