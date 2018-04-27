@@ -20,8 +20,15 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
 GITHUB_URL="https://github.com/kkiyama117"
-TWITTER_USERNAME="Muskuarede"
+
+TWITTER_USER="Muskuarede "
+TWITTER_TWEET_BUTTON=True
+TWITTER_FOLLOW_BUTTON=True
+
+SEARCH_BOX=True
+
 REVERSE_CATEGORY_ORDER = True
 LOCALE = "ja_JP.UTF-8"
 DEFAULT_PAGINATION = 5
@@ -31,9 +38,9 @@ FEED_ALL_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),)
+LINKS = (('作りかけのゴミ', 'http://hinatan.jp/'),
+         ('ブログ他の何か', 'http://backend.hinatan.jp/'),
+         ('こ↑こ↓', 'http://github.hinatan.jp/'),)
 
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/Muskuarede'),
@@ -67,5 +74,5 @@ SITEMAP={
 }
 
 # themes
-THEME = 'themes/pelican-striped-html5up'
+THEME = 'themes'
 STATIC_PATHS = ['images']
