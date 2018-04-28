@@ -25,8 +25,8 @@ LINKS = (('About', SITEURL + "/pages/about/"),
          ('作りかけのゴミ', 'http://hinatan.jp/'),
          ('ブログ他の何か', 'http://backend.hinatan.jp/'),
          ('こ↑こ↓', 'http://github.hinatan.jp/'),)
-         
+
 # Following items are often useful when publishing
 
 # DISQUS_SITENAME = ""
-# GOOGLE_ANALYTICS = ""
+# GOOGLE_UNIVERSAL_ANALYTICS = ""
