@@ -53,14 +53,13 @@ SOCIAL = (('twitter', 'https://twitter.com/Muskuarede'),
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
+DEFAULT_METADATA = {
+    'Status': 'published',
+}
 # article like blog
 ARTICLE_URL = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html'
 ARTICLE_PATHS = ['blog']
-
-DEFAULT_METADATA = {
-    'status': 'draft',
-}
 
 # code blocks with line numbers
 PYGMENTS_RST_OPTIONS = {'linenos': 'table'}
