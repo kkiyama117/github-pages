@@ -29,4 +29,4 @@ LINKS = (('About', SITEURL + "/pages/about/"),
 # Following items are often useful when publishing
 
 # DISQUS_SITENAME = ""
-# GOOGLE_ANALYTICS = ""
+# GOOGLE_UNIVERSAL_ANALYTICS = ""
