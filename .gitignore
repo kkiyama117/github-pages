@@ -116,3 +116,4 @@ venv.bak/
 !content/index.md
 content/
 output/
+publishconf.py
