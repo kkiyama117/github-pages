@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://github.hinatan.jp/</loc>
-<lastmod>2018-04-28T14:31:37-00:00</lastmod>
+<lastmod>2018-04-28T16:19:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://github.hinatan.jp/archives.html</loc>
-<lastmod>2018-04-28T14:31:37-00:00</lastmod>
+<lastmod>2018-04-28T16:19:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://github.hinatan.jp/tags.html</loc>
-<lastmod>2018-04-28T14:31:37-00:00</lastmod>
+<lastmod>2018-04-28T16:19:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://github.hinatan.jp/categories.html</loc>
-<lastmod>2018-04-28T14:31:37-00:00</lastmod>
+<lastmod>2018-04-28T16:19:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -53,7 +53,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://github.hinatan.jp/posts/2018/ 4月/28/blog/</loc>
+<loc>http://github.hinatan.jp/posts/2018/ 4月/28/0428_2/</loc>
+<lastmod>2018-04-28T16:30:00+09:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://github.hinatan.jp/posts/2018/ 4月/28/0428_1/</loc>
 <lastmod>2018-04-28T10:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -61,21 +68,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://github.hinatan.jp/category/blog.html</loc>
-<lastmod>2018-04-28T10:30:00+09:19</lastmod>
+<lastmod>2018-04-28T16:30:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://github.hinatan.jp/tag/blogs.html</loc>
-<lastmod>2018-04-28T10:30:00+09:19</lastmod>
+<lastmod>2018-04-28T16:30:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://github.hinatan.jp/author/kkiyama117.html</loc>
-<lastmod>2018-04-28T10:30:00+09:19</lastmod>
+<lastmod>2018-04-28T16:30:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
