@@ -1,18 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>ぼっちでプログラミング。</title><link>http://github.hinatan.jp/</link><description>ひとりでできるもん！</description><lastBuildDate>Sat, 28 Apr 2018 10:30:00 +0900</lastBuildDate><item><title>ホームページはじめました.</title><link>http://github.hinatan.jp/posts/2018/%204%E6%9C%88/28/homupezihazimemashita/</link><description>&lt;!-- Modified: 2018-04-28 10:10 --&gt;
-
-&lt;p&gt;Category: Blog
-Tags: blogs
-Author: kkiyama117
-Summary: First Post
-Slug: blog
-Status: published&lt;/p&gt;
-&lt;h2&gt;こんにちは&lt;/h2&gt;
-&lt;p&gt;ブログじみた日記を始めたいと思います。
-今後書く内容としては、
-- 雑談
-- プログラミング系の何か
-- その時思ったこと
-等です。&lt;/p&gt;
-&lt;p&gt;今後私の趣味の増えるに従い、増えていくと思います。&lt;/p&gt;
-&lt;p&gt;私については&lt;a href="http://github.hinatan.jp/pages/author/"&gt;Author&lt;/a&gt; を, このブログについては&lt;a href="http://github.hinatan.jp/pages/about/"&gt;About&lt;/a&gt; 見てください.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">kkiyama117</dc:creator><pubDate>Sat, 28 Apr 2018 10:30:00 +0900</pubDate><guid isPermaLink="false">tag:github.hinatan.jp,2018-04-28:/posts/2018/ 4月/28/homupezihazimemashita/</guid></item></channel></rss>
+<rss version="2.0"><channel><title>ぼっちでプログラミング。</title><link>http://github.hinatan.jp/</link><description>ひとりでできるもん！</description><lastBuildDate>Sat, 28 Apr 2018 10:30:00 +0900</lastBuildDate><item><title>ホームページはじめました.</title><link>http://github.hinatan.jp/posts/2018/%204%E6%9C%88/28/blog/</link><description>&lt;p&gt;First Post&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">kkiyama117</dc:creator><pubDate>Sat, 28 Apr 2018 10:30:00 +0900</pubDate><guid isPermaLink="false">tag:github.hinatan.jp,2018-04-28:/posts/2018/ 4月/28/blog/</guid><category>blogs</category></item></channel></rss>
