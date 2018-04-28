@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ぼっちでプログラミング。 - Blog</title><link href="http://github.hinatan.jp/" rel="alternate"></link><link href="http://github.hinatan.jp/feeds/blog.atom.xml" rel="self"></link><id>http://github.hinatan.jp/</id><updated>2018-04-28T16:30:00+09:00</updated><entry><title>HPをはじめたきっかけ</title><link href="http://github.hinatan.jp/posts/2018/%204%E6%9C%88/28/0428_2/" rel="alternate"></link><published>2018-04-28T16:30:00+09:00</published><updated>2018-04-28T16:30:00+09:00</updated><author><name>kkiyama117</name></author><id>tag:github.hinatan.jp,2018-04-28:/posts/2018/ 4月/28/0428_2/</id><summary type="html">&lt;p&gt;要は物忘れがはげしくなった、って事です.&lt;/p&gt;</summary><content type="html">&lt;h2&gt;この雑記で&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ぼっちでプログラミング。 - Blog</title><link href="http://hinatan.jp/" rel="alternate"></link><link href="http://hinatan.jp/feeds/blog.atom.xml" rel="self"></link><id>http://hinatan.jp/</id><updated>2018-04-28T16:30:00+09:00</updated><entry><title>HPをはじめたきっかけ</title><link href="http://hinatan.jp/posts/2018/%204%E6%9C%88/28/0428_2/" rel="alternate"></link><published>2018-04-28T16:30:00+09:00</published><updated>2018-04-28T16:30:00+09:00</updated><author><name>kkiyama117</name></author><id>tag:hinatan.jp,2018-04-28:/posts/2018/ 4月/28/0428_2/</id><summary type="html">&lt;p&gt;要は物忘れがはげしくなった、って事です.&lt;/p&gt;</summary><content type="html">&lt;h2&gt;この雑記で&lt;/h2&gt;
 &lt;p&gt;まず、すぐに物忘れをするので、とりあえずこの雑記をはじめたきっかけを最初のお話にしようかと思います。
 とりあえず、私事ですがインターンをはじめまして、その場にて自分の能力不足を実感しました。
 これじゃ駄目じゃん。って事で、その職場のエンジニアの人達の話を聞いて、
 とりあえず自分の今出来る事をメモってみることにしました。&lt;/p&gt;
 &lt;p&gt;その副産物として、それを公開することで、それを共有したり、より良い情報を知ることが出来たりするという話です。
 つまりはコピーレフトの思想ですね。&lt;/p&gt;
-&lt;p&gt;ということなので皆さんここのものについて何かございましたら共有してくださると大変ありがたいです。&lt;/p&gt;</content><category term="blogs"></category></entry><entry><title>ホームページはじめました.</title><link href="http://github.hinatan.jp/posts/2018/%204%E6%9C%88/28/0428_1/" rel="alternate"></link><published>2018-04-28T10:30:00+09:00</published><updated>2018-04-28T10:30:00+09:00</updated><author><name>kkiyama117</name></author><id>tag:github.hinatan.jp,2018-04-28:/posts/2018/ 4月/28/0428_1/</id><summary type="html">&lt;p&gt;First Post です.&lt;/p&gt;</summary><content type="html">&lt;h2&gt;こんにちは&lt;/h2&gt;
+&lt;p&gt;ということなので皆さんここのものについて何かございましたら共有してくださると大変ありがたいです。&lt;/p&gt;</content><category term="blogs"></category></entry><entry><title>ホームページはじめました.</title><link href="http://hinatan.jp/posts/2018/%204%E6%9C%88/28/0428_1/" rel="alternate"></link><published>2018-04-28T10:30:00+09:00</published><updated>2018-04-28T10:30:00+09:00</updated><author><name>kkiyama117</name></author><id>tag:hinatan.jp,2018-04-28:/posts/2018/ 4月/28/0428_1/</id><summary type="html">&lt;p&gt;First Post です.&lt;/p&gt;</summary><content type="html">&lt;h2&gt;こんにちは&lt;/h2&gt;
 &lt;p&gt;ブログじみた日記を始めたいと思います。
 今後書く内容としては、
 - 雑談
