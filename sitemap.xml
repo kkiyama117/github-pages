@@ -4,98 +4,98 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://github.hinatan.jp/</loc>
-<lastmod>2018-04-29T11:45:35-00:00</lastmod>
+<loc>http://hinatan.jp/</loc>
+<lastmod>2018-04-29T11:50:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://github.hinatan.jp/archives.html</loc>
-<lastmod>2018-04-29T11:45:35-00:00</lastmod>
+<loc>http://hinatan.jp/archives.html</loc>
+<lastmod>2018-04-29T11:50:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://github.hinatan.jp/tags.html</loc>
-<lastmod>2018-04-29T11:45:35-00:00</lastmod>
+<loc>http://hinatan.jp/tags.html</loc>
+<lastmod>2018-04-29T11:50:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://github.hinatan.jp/categories.html</loc>
-<lastmod>2018-04-29T11:45:35-00:00</lastmod>
+<loc>http://hinatan.jp/categories.html</loc>
+<lastmod>2018-04-29T11:50:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://github.hinatan.jp/about/</loc>
+<loc>http://hinatan.jp/about/</loc>
 <lastmod>2018-04-28T16:50:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://github.hinatan.jp/author/</loc>
+<loc>http://hinatan.jp/author/</loc>
 <lastmod>2018-04-28T10:25:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://github.hinatan.jp/pages/Pages/</loc>
+<loc>http://hinatan.jp/pages/Pages/</loc>
 <lastmod>2018-04-28T10:10:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://github.hinatan.jp/posts/2018/ 5月/01/0429_1/</loc>
+<loc>http://hinatan.jp/posts/2018/ 5月/01/0429_1/</loc>
 <lastmod>2018-05-01T14:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://github.hinatan.jp/posts/2018/ 4月/28/0428_2/</loc>
+<loc>http://hinatan.jp/posts/2018/ 4月/28/0428_2/</loc>
 <lastmod>2018-04-28T16:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://github.hinatan.jp/posts/2018/ 4月/28/0428_1/</loc>
+<loc>http://hinatan.jp/posts/2018/ 4月/28/0428_1/</loc>
 <lastmod>2018-04-28T10:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://github.hinatan.jp/category/blog.html</loc>
+<loc>http://hinatan.jp/category/blog.html</loc>
 <lastmod>2018-05-01T14:00:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://github.hinatan.jp/tag/blogs.html</loc>
+<loc>http://hinatan.jp/tag/blogs.html</loc>
 <lastmod>2018-05-01T14:00:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://github.hinatan.jp/tag/programming.html</loc>
+<loc>http://hinatan.jp/tag/programming.html</loc>
 <lastmod>2018-05-01T14:00:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://github.hinatan.jp/author/kkiyama117.html</loc>
+<loc>http://hinatan.jp/author/kkiyama117.html</loc>
 <lastmod>2018-05-01T14:00:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
