@@ -30,3 +30,4 @@ LINKS = (('About', SITEURL + "/pages/about/"),
 
 # DISQUS_SITENAME = ""
 # GOOGLE_UNIVERSAL_ANALYTICS = ""
+# GOOGLE_ADSENSE_CLIENT =""
