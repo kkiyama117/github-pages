@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ぼっちでプログラミング。</title><link href="http://hinatan.jp/" rel="alternate"></link><link href="http://hinatan.jp/feeds/all.atom.xml" rel="self"></link><id>http://hinatan.jp/</id><updated>2018-04-29T16:30:00+09:00</updated><entry><title>直近の記事について</title><link href="http://hinatan.jp/posts/2018/%204%E6%9C%88/29/0429_1/" rel="alternate"></link><published>2018-04-29T16:30:00+09:00</published><updated>2018-04-29T16:30:00+09:00</updated><author><name>kkiyama117</name></author><id>tag:hinatan.jp,2018-04-29:/posts/2018/ 4月/29/0429_1/</id><summary type="html">&lt;p&gt;今後1ヶ月でまとめる事.&lt;/p&gt;</summary><content type="html">&lt;h2 id="_1"&gt;今後一ヶ月で&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ぼっちでプログラミング。</title><link href="http://hinatan.jp/" rel="alternate"></link><link href="http://hinatan.jp/feeds/all.atom.xml" rel="self"></link><id>http://hinatan.jp/</id><updated>2018-04-30T23:30:00+09:00</updated><entry><title>Tensorflow 1</title><link href="http://hinatan.jp/posts/2018/%204%E6%9C%88/30/0430_1/" rel="alternate"></link><published>2018-04-30T23:30:00+09:00</published><updated>2018-04-30T23:30:00+09:00</updated><author><name>kkiyama117</name></author><id>tag:hinatan.jp,2018-04-30:/posts/2018/ 4月/30/0430_1/</id><summary type="html">&lt;p&gt;機械学習をはじめる.が,しかし...&lt;/p&gt;</summary><content type="html">&lt;!-- Status: draft --&gt;
+
+&lt;h2 id="_1"&gt;概要&lt;/h2&gt;
+&lt;p&gt;Tensorflow というPython の ライブラリで機械学習のお勉強を始めます.&lt;/p&gt;
+&lt;h2 id="_2"&gt;ガッツリ参考書を買う&lt;/h2&gt;
+&lt;p&gt;これ&lt;/p&gt;
+&lt;iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&amp;t=kkiyama11705-22&amp;m=amazon&amp;o=9&amp;p=8&amp;l=as1&amp;IS1=1&amp;detail=1&amp;asins=4295003182&amp;linkId=f1279f3cf1be64397f9800a88b3acca6&amp;bc1=000000&amp;lt1=_top&amp;fc1=333333&amp;lc1=0066c0&amp;bg1=ffffff&amp;f=ifr"&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;です.&lt;br&gt;
+感想は読んでから自分で判断してください.&lt;/p&gt;
+&lt;h2 id="_3"&gt;取り敢えずインストールする&lt;/h2&gt;
+&lt;h3 id="_4"&gt;仮想環境作成&lt;/h3&gt;
+&lt;p&gt;まずはpythonの仮想環境をつくります.&lt;br&gt;
+pythonはインストールしておきます.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;mkdir ~/programs/mine/Tensorflow
+# 実際は好きなフォルダでいいです
+cd ~/programs/mine/Tensorflow
+python -m venv .venv
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;仮想環境を使います.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;source .venv/bin/activate
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h3 id="_5"&gt;インストール&lt;/h3&gt;
+&lt;p&gt;最適化していないものでいいなら, インストールは簡単です.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;pip install tensorflow
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;しばらくこれでやっていましたが,ノートPCではスペック的にしんどそうだったので、マシンに合わせ、最適化していきました.&lt;/p&gt;
+&lt;p&gt;(続きます.)&lt;/p&gt;</content><category term="blogs"></category><category term="programming"></category><category term="deeplearning"></category></entry><entry><title>直近の記事について</title><link href="http://hinatan.jp/posts/2018/%204%E6%9C%88/29/0429_1/" rel="alternate"></link><published>2018-04-29T16:30:00+09:00</published><updated>2018-04-29T16:30:00+09:00</updated><author><name>kkiyama117</name></author><id>tag:hinatan.jp,2018-04-29:/posts/2018/ 4月/29/0429_1/</id><summary type="html">&lt;p&gt;今後1ヶ月でまとめる事.&lt;/p&gt;</summary><content type="html">&lt;h2 id="_1"&gt;今後一ヶ月で&lt;/h2&gt;
 &lt;p&gt;さて、折角メモを取る意識が出来たところですので、何について書いていくかをまとめておきたいと思います.&lt;br&gt;
 - Python&lt;br&gt;
   * Tenserflow (機械学習)&lt;br&gt;

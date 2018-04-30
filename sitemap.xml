@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://hinatan.jp/</loc>
-<lastmod>2018-05-01T00:38:22-00:00</lastmod>
+<lastmod>2018-05-01T00:57:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://hinatan.jp/archives.html</loc>
-<lastmod>2018-05-01T00:38:22-00:00</lastmod>
+<lastmod>2018-05-01T00:57:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://hinatan.jp/tags.html</loc>
-<lastmod>2018-05-01T00:38:22-00:00</lastmod>
+<lastmod>2018-05-01T00:57:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://hinatan.jp/categories.html</loc>
-<lastmod>2018-05-01T00:38:22-00:00</lastmod>
+<lastmod>2018-05-01T00:57:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -48,6 +48,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://hinatan.jp/pages/Pages/</loc>
 <lastmod>2018-04-28T10:10:00+09:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://hinatan.jp/posts/2018/ 4月/30/0430_1/</loc>
+<lastmod>2018-04-30T23:30:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -75,28 +82,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://hinatan.jp/category/blog.html</loc>
-<lastmod>2018-04-29T16:30:00+09:19</lastmod>
+<lastmod>2018-04-30T23:30:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://hinatan.jp/tag/blogs.html</loc>
-<lastmod>2018-04-29T16:30:00+09:19</lastmod>
+<lastmod>2018-04-30T23:30:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://hinatan.jp/tag/programming.html</loc>
-<lastmod>2018-04-29T16:30:00+09:19</lastmod>
+<lastmod>2018-04-30T23:30:00+09:19</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://hinatan.jp/tag/deeplearning.html</loc>
+<lastmod>2018-04-30T23:30:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://hinatan.jp/author/kkiyama117.html</loc>
-<lastmod>2018-04-29T16:30:00+09:19</lastmod>
+<lastmod>2018-04-30T23:30:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
