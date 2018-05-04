@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>ぼっちでプログラミング。</title><link href="http://hinatan.jp/" rel="alternate"></link><link href="http://hinatan.jp/feeds/all.atom.xml" rel="self"></link><id>http://hinatan.jp/</id><updated>2018-04-30T23:30:00+09:00</updated><entry><title>Tensorflow 1</title><link href="http://hinatan.jp/posts/2018/%204%E6%9C%88/30/0430_1/" rel="alternate"></link><published>2018-04-30T23:30:00+09:00</published><updated>2018-04-30T23:30:00+09:00</updated><author><name>kkiyama117</name></author><id>tag:hinatan.jp,2018-04-30:/posts/2018/ 4月/30/0430_1/</id><summary type="html">&lt;p&gt;機械学習をはじめる.が,しかし...&lt;/p&gt;</summary><content type="html">&lt;!-- Status: draft --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>ぼっちでプログラミング。</title><link href="http://hinatan.jp/" rel="alternate"></link><link href="http://hinatan.jp/feeds/all.atom.xml" rel="self"></link><id>http://hinatan.jp/</id><updated>2018-05-04T13:30:00+09:00</updated><entry><title>京大マップ 1</title><link href="http://hinatan.jp/posts/2018/%205%E6%9C%88/04/0504_1/" rel="alternate"></link><published>2018-05-04T13:30:00+09:00</published><updated>2018-05-04T13:30:00+09:00</updated><author><name>kkiyama117</name></author><id>tag:hinatan.jp,2018-05-04:/posts/2018/ 5月/04/0504_1/</id><summary type="html">&lt;p&gt;しょうがないので。&lt;/p&gt;</summary><content type="html">&lt;h2 id="_1"&gt;概要&lt;/h2&gt;
+&lt;p&gt;前回、Tensorflowについて書いたのですが、ガッツリ動かないので(NVIDIAのGPUが要りそう)&lt;br&gt;
+しかたなく京大マップの話をします。&lt;/p&gt;
+&lt;p&gt;あんまり中身についてガッツリ書いてしまうと、契約違反になりそうなので触りだけ。&lt;/p&gt;
+&lt;p&gt;まず、京大マップの内部構造ですが、&lt;br&gt;
+サーバー側とクライアント側というよくある構造になっています。&lt;br&gt;
+サーバー側はDjango, クライアント側はiOSはswing,Androidは普通にADTとJavaです。&lt;/p&gt;
+&lt;p&gt;こちらのそれぞれを更新していこう、というのが今の流れです。&lt;/p&gt;
+&lt;p&gt;理由としては、&lt;br&gt;
+- 先代が抜けて1年、メジャーアップデートは2年ない&lt;br&gt;
+- 僕達がこのままでは理解が進まなかったり、開発に貢献できない&lt;br&gt;
+というのがあります。&lt;/p&gt;
+&lt;p&gt;といっても、先代が残してくれたものがあるので、しばらくはこちらを最大限生かし、Refactorをかけていく感じかと思います。&lt;/p&gt;
+&lt;p&gt;ただ、最近は技術の更新のペースが早く、React NativeやらKotlinへの代替やらがありますので、随時こっちへ流れていくのがいいのかなとも思って日々コードを書いています。&lt;/p&gt;</content><category term="blogs"></category><category term="programming"></category><category term="deeplearning"></category></entry><entry><title>Tensorflow 1</title><link href="http://hinatan.jp/posts/2018/%204%E6%9C%88/30/0430_1/" rel="alternate"></link><published>2018-04-30T23:30:00+09:00</published><updated>2018-04-30T23:30:00+09:00</updated><author><name>kkiyama117</name></author><id>tag:hinatan.jp,2018-04-30:/posts/2018/ 4月/30/0430_1/</id><summary type="html">&lt;p&gt;機械学習をはじめる.が,しかし...&lt;/p&gt;</summary><content type="html">&lt;!-- Status: draft --&gt;
 
 &lt;h2 id="_1"&gt;概要&lt;/h2&gt;
 &lt;p&gt;Tensorflow というPython の ライブラリで機械学習のお勉強を始めます.&lt;/p&gt;
