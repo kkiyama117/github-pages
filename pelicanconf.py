@@ -53,6 +53,22 @@ SOCIAL = (('twitter', 'https://twitter.com/Muskuarede'),
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.meta': {},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.sane_lists': {},
+        'markdown.extensions.toc': {},
+        "markdown.extensions.nl2br": {},
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.fenced_code': {},
+        'markdown.extensions.footnotes': {},
+        'markdown.extensions.tables': {},
+    },
+    "tab_length": 2,
+    'output_format': 'html5',
+}
+
 DEFAULT_METADATA = {
     'Status': 'published',
 }
