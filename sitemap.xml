@@ -5,28 +5,56 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://hinatan.jp/</loc>
-<lastmod>2018-05-07T22:40:42-00:00</lastmod>
+<lastmod>2018-05-07T22:41:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://hinatan.jp/archives.html</loc>
-<lastmod>2018-05-07T22:40:42-00:00</lastmod>
+<lastmod>2018-05-07T22:41:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://hinatan.jp/tags.html</loc>
-<lastmod>2018-05-07T22:40:42-00:00</lastmod>
+<lastmod>2018-05-07T22:41:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://hinatan.jp/categories.html</loc>
-<lastmod>2018-05-07T22:40:42-00:00</lastmod>
+<lastmod>2018-05-07T22:41:39-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://hinatan.jp/posts/2018/ 5月/04/0507_1/</loc>
+<lastmod>2018-05-04T13:10:00+09:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://hinatan.jp/category/blog.html</loc>
+<lastmod>2018-05-04T13:10:00+09:19</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://hinatan.jp/tag/programming.html</loc>
+<lastmod>2018-05-04T13:10:00+09:19</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://hinatan.jp/author/kkiyama117.html</loc>
+<lastmod>2018-05-04T13:10:00+09:19</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
