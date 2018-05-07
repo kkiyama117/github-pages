@@ -122,7 +122,6 @@ cf_upload: publish
 	cd $(OUTPUTDIR) && swift -v -A https://auth.api.rackspacecloud.com/v1.0 -U $(CLOUDFILES_USERNAME) -K $(CLOUDFILES_API_KEY) upload -c $(CLOUDFILES_CONTAINER) .
 
 github: publish
-	git pull origin $(GITHUB_PAGES_BRANCH):$(GITHUB_PAGES_BRANCH)
 	ghp-import $(OUTPUTDIR)
 	git push -f origin $(GITHUB_PAGES_BRANCH)
 
