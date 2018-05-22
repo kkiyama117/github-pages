@@ -1,11 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 
 AUTHOR = 'kkiyama117'
 SITENAME = 'ぼっちでプログラミング。'
 SITESUBTITLE = 'ひとりでできるもん！'
-SITEURL = 'http://localhost:8000'
+SITEURL = os.environ.setdefault("SITEURL", "http://localhost:8000")
 
 PATH = 'content'
 
