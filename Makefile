@@ -101,7 +101,6 @@ publish:
 	rm -rf $(OUTPUTDIR)
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 	cp CNAME $(OUTPUTDIR)
-	touch $(OUTPUTDIR)/.nojekyll
 
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)

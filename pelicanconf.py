@@ -42,9 +42,9 @@ CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 # Blogroll
 LINKS = (('About', SITEURL + "/pages/about/"),
          ('Author', SITEURL + "/pages/author/"),
-         ('作りかけのゴミ(外部)', 'http://hinatan.jp/'),
+         ('作りかけのゴミ(外部)', 'http://homepage.hinatan.jp/'),
          ('総合DBサーバー', 'http://backend.hinatan.jp/'),
-         ('こ↑こ↓', 'http://github.hinatan.jp/'),)
+         ('こ↑こ↓', 'https://hinatan.jp/'),)
 
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/Muskuarede'),
